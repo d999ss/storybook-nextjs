@@ -1,5 +1,5 @@
 import React from 'react';
-import { ResortMap } from '../components/map/ResortMap';
+import { ResortMap } from '../src/components/map/ResortMap';
 
 export default function Home() {
   const demoData = {
